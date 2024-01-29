@@ -324,6 +324,11 @@ nfcChampionshipYearDropdown.addEventListener("change", () => {
                 container.appendChild(x)
                 container.appendChild(fortyNinersHelmet)
                 break
+            case "2024":
+                container.appendChild(fortyNinersHelmet)
+                container.appendChild(x)
+                container.appendChild(lionsHelmet)
+                break
         }
 })
 

@@ -306,6 +306,11 @@ afcChampionshipYearDropdown.addEventListener("change", function () {
             container.appendChild(x);
             container.appendChild(bengalsHelmet);
             break;
+        case "2024":
+            container.appendChild(chiefsHelmet);
+            container.appendChild(x);
+            container.appendChild(ravensHelmet);
+            break;
     }
 });
 afcChampionshipHistoryMainSection.appendChild(container);
