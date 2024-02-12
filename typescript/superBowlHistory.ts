@@ -380,6 +380,11 @@ const superBowlYearDropdown = document.getElementById("super-bowl-year-dropdown"
                 container.appendChild(x)
                 container.appendChild(eaglesHelmet)
                 break
+            case "2024":
+                container.appendChild(chiefsHelmet)
+                container.appendChild(x)
+                container.appendChild(fortyNinersHelmet)
+                break
         }
     })
 
