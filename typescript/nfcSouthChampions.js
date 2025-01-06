@@ -79,6 +79,9 @@ nfcSouthChampionsYearDropdown.addEventListener("change", function () {
         case "2023":
             container.appendChild(buccaneersHelmet);
             break;
+        case "2024":
+            container.appendChild(buccaneersHelmet);
+            break;
     }
 });
 nfcSouthChampionsMainSection.appendChild(container);

@@ -206,6 +206,9 @@ afcWestChampionsYearDropdown.addEventListener("change", function () {
         case "2023":
             container.appendChild(chiefsHelmet);
             break;
+        case "2024":
+            container.appendChild(chiefsHelmet);
+            break;
     }
 });
 afcWestChampionsMainSection.appendChild(container);

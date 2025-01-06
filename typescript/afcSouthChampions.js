@@ -79,6 +79,9 @@ afcSouthChampionsYearDropdown.addEventListener("change", function () {
         case "2023":
             container.appendChild(texansHelmet);
             break;
+        case "2024":
+            container.appendChild(texansHelmet);
+            break;
     }
 });
 afcSouthChampionsMainSection.appendChild(container);

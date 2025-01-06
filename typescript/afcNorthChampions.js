@@ -180,6 +180,9 @@ afcNorthChampionsYearDropdown.addEventListener("change", function () {
         case "2023":
             container.appendChild(ravensHelmet);
             break;
+        case "2024":
+            container.appendChild(ravensHelmet);
+            break;
     }
 });
 afcNorthChampionsMainSection.appendChild(container);

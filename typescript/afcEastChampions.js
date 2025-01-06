@@ -208,6 +208,9 @@ afcEastChampionsYearDropdown.addEventListener("change", function () {
         case "2023":
             container.appendChild(billsHelmet);
             break;
+        case "2024":
+            container.appendChild(billsHelmet);
+            break;
     }
 });
 afcEastChampionsMainSection.appendChild(container);

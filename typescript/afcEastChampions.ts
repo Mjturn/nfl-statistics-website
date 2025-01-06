@@ -1,6 +1,6 @@
 const afcEastChampionsMainSection = document.getElementById("afc-east-champions-main-section")
 const afcEastChampionsYearDropdown = document.getElementById("afc-east-champions-year-dropdown")
-    
+
 const oilersHelmet = document.createElement("img")
 oilersHelmet.src = "../helmets/oilers_helmet.png"
 
@@ -215,6 +215,9 @@ afcEastChampionsYearDropdown.addEventListener("change", () => {
                 container.appendChild(billsHelmet)
                 break
             case "2023":
+                container.appendChild(billsHelmet)
+                break
+            case "2024":
                 container.appendChild(billsHelmet)
                 break
         }
