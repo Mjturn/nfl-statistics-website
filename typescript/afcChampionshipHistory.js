@@ -311,6 +311,11 @@ afcChampionshipYearDropdown.addEventListener("change", function () {
             container.appendChild(x);
             container.appendChild(ravensHelmet);
             break;
+        case "2025":
+            container.appendChild(chiefsHelmet);
+            container.appendChild(x);
+            container.appendChild(billsHelmet);
+            break;
     }
 });
 afcChampionshipHistoryMainSection.appendChild(container);
