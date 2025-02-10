@@ -353,6 +353,11 @@ superBowlYearDropdown.addEventListener("change", function () {
             container.appendChild(x);
             container.appendChild(fortyNinersHelmet);
             break;
+        case "2025":
+            container.appendChild(eaglesHelmet);
+            container.appendChild(x);
+            container.appendChild(chiefsHelmet);
+            break;
     }
 });
 superBowlHistoryMainSection.appendChild(container);

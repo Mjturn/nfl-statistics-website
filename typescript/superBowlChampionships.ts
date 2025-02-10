@@ -14,7 +14,7 @@ const nflTeams: Map<string, { wins: number, color: string }> = new Map([
     ["Washington Commanders", { wins: 3, color: "rgb(90, 20, 20)" }],
     ["Dallas Cowboys", { wins: 5, color: "rgb(0, 53, 148)" }],
     ["Miami Dolphins", { wins: 2, color: "rgb(0, 142, 151)" }],
-    ["Philadelphia Eagles", { wins: 1, color: "rgb(0, 76, 84)" }],
+    ["Philadelphia Eagles", { wins: 2, color: "rgb(0, 76, 84)" }],
     ["Atlanta Falcons", { wins: 0, color: "rgb(167, 25, 48)" }],
     ["San Francisco 49ers", { wins: 5, color: "rgb(170, 0, 0)" }],
     ["New York Giants", { wins: 4, color: "rgb(1, 35, 82)" }],
