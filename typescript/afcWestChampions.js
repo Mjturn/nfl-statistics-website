@@ -209,6 +209,9 @@ afcWestChampionsYearDropdown.addEventListener("change", function () {
         case "2024":
             container.appendChild(chiefsHelmet);
             break;
+        case "2025":
+            container.appendChild(broncosHelmet);
+            break;
     }
 });
 afcWestChampionsMainSection.appendChild(container);

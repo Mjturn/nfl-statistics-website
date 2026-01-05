@@ -220,6 +220,9 @@ afcEastChampionsYearDropdown.addEventListener("change", () => {
             case "2024":
                 container.appendChild(billsHelmet)
                 break
+            case "2025":
+                container.appendChild(patriotsHelmet)
+                break
         }
 })
 

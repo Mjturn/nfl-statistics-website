@@ -188,6 +188,9 @@ nfcEastChampionsYearDropdown.addEventListener("change", function () {
         case "2024":
             container.appendChild(eaglesHelmet);
             break;
+        case "2025":
+            container.appendChild(eaglesHelmet);
+            break;
     }
 });
 nfcEastChampionsMainSection.appendChild(container);

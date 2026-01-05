@@ -193,6 +193,9 @@ afcNorthChampionsYearDropdown.addEventListener("change", () => {
             case "2024":
                 container.appendChild(ravensHelmet)
                 break
+            case "2025":
+                container.appendChild(steelersHelmet)
+                break
         }
 })
 
