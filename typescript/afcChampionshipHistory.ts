@@ -337,6 +337,11 @@ afcChampionshipYearDropdown.addEventListener("change", () => {
                 container.appendChild(x)
                 container.appendChild(billsHelmet)
                 break
+            case "2026":
+                container.appendChild(patriotsHelmet)
+                container.appendChild(x)
+                container.appendChild(broncosHelmet)
+                break
         }
 })
 
