@@ -358,6 +358,11 @@ superBowlYearDropdown.addEventListener("change", function () {
             container.appendChild(x);
             container.appendChild(chiefsHelmet);
             break;
+        case "2026":
+            container.appendChild(seahawksHelmet);
+            container.appendChild(x);
+            container.appendChild(patriotsHelmet);
+            break;
     }
 });
 superBowlHistoryMainSection.appendChild(container);

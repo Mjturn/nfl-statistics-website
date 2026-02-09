@@ -27,7 +27,7 @@ var nflTeams = new Map([
     ["Los Angeles Rams", { wins: 2, color: "rgb(0, 53, 148)" }],
     ["Baltimore Ravens", { wins: 2, color: "rgb(26, 25, 95)" }],
     ["New Orleans Saints", { wins: 1, color: "rgb(211, 188, 141)" }],
-    ["Seattle Seahawks", { wins: 1, color: "rgb(0, 34, 68)" }],
+    ["Seattle Seahawks", { wins: 2, color: "rgb(0, 34, 68)" }],
     ["Pittsburgh Steelers", { wins: 6, color: "rgb(255, 182, 18)" }],
     ["Houston Texans", { wins: 0, color: "rgb(3, 32, 47)" }],
     ["Tennessee Titans", { wins: 0, color: "rgb(12, 35, 64)" }],
